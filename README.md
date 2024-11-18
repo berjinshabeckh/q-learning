@@ -1,5 +1,7 @@
 # Q Learning Algorithm
-# date: 29/10/24
+# Date: 29/10/2024
+# Name: H.Berjin Shabeck
+# Reg no: 212222240018
 
 ## AIM :
 
